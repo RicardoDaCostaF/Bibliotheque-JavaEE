@@ -1,1 +1,1 @@
-"# Bibliotheque-JavaEE" 
+Bibliothèque basée sur JavaEE 
