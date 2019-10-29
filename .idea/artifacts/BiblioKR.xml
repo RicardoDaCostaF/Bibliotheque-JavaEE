@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="BiblioKR">
+    <output-path>$PROJECT_DIR$/out/artifacts/BiblioKR</output-path>
+    <root id="archive" name="BiblioKR.war">
+      <element id="artifact" artifact-name="00-Projet1:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,24 @@
+/* Show it is fixed to the top */
+
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+
+/*
+.texteBienvenue{
+    margin-top: 5%;
+}*/
+
+
+.hidden-button {
+    position:relative;
+    z-index:0;
+}
+
+
+.well {
+    position:relative;
+    margin-top:-33px;
+    z-index:10000;
+}
